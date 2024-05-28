@@ -2,11 +2,11 @@
 Next Level Week #05 - Podcastr
 <br>
 <br>
-  ![Podcastr](https://github.com/luc-ribeiro/nlw-05-react-podcastr/blob/main/design/logo.png)
+  <img src="./design/logo.png"/>
 </h1>
 
 <div align="right">
-  Clique <a href="https://github.com/luc-ribeiro/nlw-05-react-podcastr-react/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
+  Clique <a href="https://github.com/luc-ribeiro/nlw-05-podcastr-react/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
 </div>
 <br>
 
