@@ -6,7 +6,7 @@ Next Level Week #05 - Podcastr
 </h1>
 
 <div align="right">
-  Click <a href="https://github.com/luc-ribeiro/nlw-05-react-podcastr-react/blob/main/README.md">here</a> to view the english version.
+  Click <a href="https://github.com/luc-ribeiro/nlw-05-podcastr-react/blob/main/README.md">here</a> to view the english version.
 </div>
 <br>
 
